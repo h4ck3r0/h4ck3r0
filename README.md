@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [H4ck3r0.github.io](H4ck3r0.github.io)
 
-- 📝 I regularly write articles on [H4ck3r.me](H4ck3r.me)
+- 📝 I regularly write articles on [H4ck3r.me](https://H4ck3r.me)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
