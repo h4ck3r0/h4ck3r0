@@ -16,4 +16,4 @@
 <a href="https://github.com/h4ck3r0"><img title="h4ck3r" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4ck3r0&layout=compact&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h4ck3r0&theme=chartreuse-dark&cache_seconds=3200" alt="h4ck3r0" /></p>
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h4ck3r0&theme=chartreuse-dark&cache_seconds=3200" alt="h4ck3r0" /></p>
