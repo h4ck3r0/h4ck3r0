@@ -1,4 +1,4 @@
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0DF700&width=435&lines=Hey+Geeks++%F0%9F%91%8B;I+am+Raj+Aryan" alt="Typing SVG" /></a>
 <p align="center"><img src="https://user-images.githubusercontent.com/46929618/150071352-0321e505-255d-4034-b884-fb166cc7e488.gif" alt="Bt">
   
 <p align="center"><a href="https://github.com/h4ck3r0"><img title="H4Ck3R" src="https://github-readme-stats.vercel.app/api?username=h4ck3r0&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
