@@ -10,10 +10,10 @@
 <a href="https://github.com/h4ck3r0/Apktool-termux"><img title="Apktool-termux" src="https://github-readme-stats.vercel.app/api/pin/?username=h4ck3r0&repo=Apktool-termux&theme=radical"></a>
 <a href="https://github.com/h4ck3r0/Termux-os"><img title="termux-os" src="https://github-readme-stats.vercel.app/api/pin/?username=h4ck3r0&repo=Termux-os&theme=vision-friendly-dark"></a>
 <a href="https://github.com/h4ck3r0/kali-theme"><img title="kali-theme" src="https://github-readme-stats.vercel.app/api/pin/?username=h4ck3r0&repo=kali-theme&theme=vision-friendly-dark"></a>
-<a href="https://github.com/h4ck3r0/Termux-banner"><img title="ipdrone" src="https://github-readme-stats.vercel.app/api/pin/?username=h4ck3r0&repo=Termux-banner&theme=vision-friendly-dark"></a>
+<a href="https://github.com/h4ck3r0/Termux-banner"><img title="Termux-Banner" src="https://github-readme-stats.vercel.app/api/pin/?username=h4ck3r0&repo=Termux-banner&theme=vision-friendly-dark"></a>
 </p>
-<p align="center">
-![h4ck3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=h4ck3r0&show_icons=true&theme=radical)
-</p>
+
+![h4ck3r's GitHub stats ](https://github-readme-stats.vercel.app/api?username=h4ck3r0&show_icons=true&theme=tokyonight)
+
 
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h4ck3r0&theme=chartreuse-dark&cache_seconds=3200" alt="h4ck3r0" /></p>
