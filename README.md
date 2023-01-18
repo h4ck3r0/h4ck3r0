@@ -7,12 +7,12 @@
 <a href="https://youtube.com/c/h4ck3r0"><img title="YouTube" src="https://img.shields.io/badge/YouTube-H4Ck3R-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 <p align="center">
-<a href="https://github.com/h4ck3r0/Apktool-termux"><img title="Apktool-termux" src="https://github-readme-stats.vercel.app/api/pin/?username=h4ck3r0&repo=Apktool-termux&theme=radical"></a>
-<a href="https://github.com/h4ck3r0/Apktool-termux"><img title="Apktool-termux" src="https://github-readme-stats.vercel.app/api/pin/?username=h4ck3r0&repo=Lemon-termux&theme=tokyonight"></a>
-<a href="https://github.com/h4ck3r0/Apktool-termux"><img title="Apktool-termux" src="https://github-readme-stats.vercel.app/api/pin/?username=h4ck3r0&repo=Metasploit-termux&theme=tokyonight"></a>
-<a href="https://github.com/h4ck3r0/Termux-os"><img title="termux-os" src="https://github-readme-stats.vercel.app/api/pin/?username=h4ck3r0&repo=Termux-os&theme=dracula"></a>
-<a href="https://github.com/h4ck3r0/kali-theme"><img title="kali-theme" src="https://github-readme-stats.vercel.app/api/pin/?username=h4ck3r0&repo=kali-theme&theme=dracula"></a>
-<a href="https://github.com/h4ck3r0/Termux-banner"><img title="Termux-Banner" src="https://github-readme-stats.vercel.app/api/pin/?username=h4ck3r0&repo=Termux-banner&theme=dracula"></a>
+<a href="https://github.com/h4ck3r0/Apktool-termux"><img title="Apktool-termux" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=h4ck3r0&repo=Apktool-termux&theme=radical"></a>
+<a href="https://github.com/h4ck3r0/Apktool-termux"><img title="Apktool-termux" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=h4ck3r0&repo=Lemon-termux&theme=tokyonight"></a>
+<a href="https://github.com/h4ck3r0/Apktool-termux"><img title="Apktool-termux" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=h4ck3r0&repo=Metasploit-termux&theme=tokyonight"></a>
+<a href="https://github.com/h4ck3r0/Termux-os"><img title="termux-os" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=h4ck3r0&repo=Termux-os&theme=dracula"></a>
+<a href="https://github.com/h4ck3r0/kali-theme"><img title="kali-theme" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=h4ck3r0&repo=kali-theme&theme=dracula"></a>
+<a href="https://github.com/h4ck3r0/Termux-banner"><img title="Termux-Banner" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=h4ck3r0&repo=Termux-banner&theme=dracula"></a>
 </p>
 
 <p align="center">
