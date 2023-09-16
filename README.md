@@ -14,7 +14,7 @@
 <p align="center">
 <a href="https://github.com/h4ck3r0/Apktool-termux"><img title="Apktool-termux" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=h4ck3r0&repo=Apktool-termux&theme=radical"></a>
  <a href="https://github.com/h4ck3r0/Termux-os"><img title="termux-os" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=h4ck3r0&repo=Termux-os&theme=radical"></a>
-  <a href="https://github.com/h4ck3r0/Apktool-termux"><img title="Apktool-termux" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=h4ck3r0&repo=Metasploit-termux&theme=tokyonight"></a>
+  <a href="https://github.com/h4ck3r0/Metasploit-termux"><img title="Metasploit-termux" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=h4ck3r0&repo=Metasploit-termux&theme=tokyonight"></a>
 <a href="https://github.com/h4ck3r0/Lemon-termux"><img title="Apktool-termux" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=h4ck3r0&repo=Lemon-termux&theme=tokyonight"></a>
 <a href="https://github.com/h4ck3r0/kali-theme"><img title="kali-theme" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=h4ck3r0&repo=kali-theme&theme=dracula"></a>
 <a href="https://github.com/h4ck3r0/Termux-banner"><img title="Termux-Banner" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=h4ck3r0&repo=Termux-banner&theme=dracula"></a>
