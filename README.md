@@ -2,7 +2,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/46929618/150071352-0321e505-255d-4034-b884-fb166cc7e488.gif" alt="Bt">
   
 ##  ➵ [Youtube](https://youtube.com/c/h4ck3r0) Free Tutorials
-##  ➵ [Website](https://h4ck3r.me) Feel Free To Ask Doubts On Default Messanger On My Website
+##  ➵ [Support](https://support.h4ck3r.me) Feel Free To Ask Doubts On My Website
 ##  ➵ [Donation](https://h4ck3r.me/donation/) We Can’t Help Everyone But Everyone Can Help Someone
 
   
