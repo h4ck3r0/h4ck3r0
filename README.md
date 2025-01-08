@@ -8,7 +8,7 @@
 <p align="left">
 <a href="https://dev.to/h4ck3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="h4ck3r" height="30" width="40" /></a>
 <a href="https://instagram.com/h4ck3r0_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h4ck3r0_official" height="30" width="40" /></a>
-<a href="/https://h4ck3r.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://h4ck3r.me" height="30" width="40" /></a>
+<a href="https://h4ck3r.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://h4ck3r.me" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
