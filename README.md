@@ -1,4 +1,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0DF700&width=435&lines=Hey+Geeks++%F0%9F%91%8B;I+am+Raj+Aryan" alt="Typing SVG" /></a>
+### About Me
+ 
+Machine Learning Engineer and Security Researcher passionate about AI, Computer Vision and Cybersecurity. Currently working on deep learning applications for image classification and security tools.
+<p></p>
+
+
 <p align="center"><img src="https://user-images.githubusercontent.com/46929618/150071352-0321e505-255d-4034-b884-fb166cc7e488.gif" alt="Bt">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h4ck3r0&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="h4ck3r0" /> </p>
 <!-- BLOG-POST-LIST:START -->
@@ -22,7 +28,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
 
 
 ### Backend  
