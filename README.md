@@ -1,4 +1,7 @@
+
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0DF700&width=435&lines=Hey+Geeks++%F0%9F%91%8B;I+am+Raj+Aryan" alt="Typing SVG" /></a>
+
 ### About Me
  
 Machine Learning Engineer and Security Researcher passionate about AI, Computer Vision and Cybersecurity. Currently working on deep learning applications for image classification and security tools.
@@ -12,9 +15,9 @@ Machine Learning Engineer and Security Researcher passionate about AI, Computer 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/h4ck3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="h4ck3r" height="30" width="40" /></a>
-<a href="https://instagram.com/h4ck3r0_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h4ck3r0_official" height="30" width="40" /></a>
-<a href="https://h4ck3r.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://h4ck3r.me" height="30" width="40" /></a>
+<a href="https://dev.to/h4ck3r" target="blank"><img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="h4ck3r" height="60" width="60" /></a>
+<a href="https://instagram.com/h4ck3r0_official" target="blank"><img align="center" style="padding: 10px"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h4ck3r0_official" height="60" width="60" /></a>
+<a href="https://h4ck3r.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://h4ck3r.me" height="60" width="60" /></a>
 </p>
 
 ### Frontend  
