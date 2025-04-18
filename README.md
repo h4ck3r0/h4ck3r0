@@ -1,9 +1,10 @@
 
 
 
+
 <!-- 🔥 Typing Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0AFFEF&lines=Hey+Geeks++%F0%9F%91%8B;I+am+Raj+Aryan;AI+%2B+Cybersecurity+%3D+%E2%9A%A1%EF%B8%8F;Hack+the+Limits" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&width=435&lines=Hey+Geeks+%F0%9F%91%8B;I+am+Raj+Aryan;AI+%2B+Cybersecurity+%3D+%E2%9A%A1%EF%B8%8F;Hack+the+Limits" alt="Typing SVG" />
 </a>
 
 
