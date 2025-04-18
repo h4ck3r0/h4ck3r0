@@ -1,60 +1,100 @@
+<!-- 🔥 Typing Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0AFFEF&lines=Hey+Geeks++%F0%9F%91%8B;I+am+Raj+Aryan;AI+%2B+Cybersecurity+%3D+%E2%9A%A1%EF%B8%8F;Hack+the+Limits" alt="Typing SVG" />
+</a>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0DF700&width=435&lines=Hey+Geeks++%F0%9F%91%8B;I+am+Raj+Aryan" alt="Typing SVG" /></a>
 
 ### About Me
  
 Machine Learning Engineer and Security Researcher passionate about AI, Computer Vision and Cybersecurity. Currently working on deep learning applications for image classification and security tools.
 <p></p>
 
+<hr style="border: none; border-top: 1px dashed #0ff; margin: 20px 0;" />
+
+
 
 <p align="center"><img src="https://user-images.githubusercontent.com/46929618/150071352-0321e505-255d-4034-b884-fb166cc7e488.gif" alt="Bt">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h4ck3r0&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="h4ck3r0" /> </p>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/h4ck3r" target="blank"><img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="h4ck3r" height="60" width="60" /></a>
-<a href="https://instagram.com/h4ck3r0_official" target="blank"><img align="center" style="padding: 10px"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h4ck3r0_official" height="60" width="60" /></a>
-<a href="https://h4ck3r.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://h4ck3r.me" height="60" width="60" /></a>
+
+---
+
+### 🧰 Toolbox
+```
+💻 IDE: VS Code
+📦 Package: pip, npm
+🎨 Design: Figma
+🧠 Frameworks: PyTorch, Scikit-learn
+```
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF00F0&center=true&vCenter=true&width=600&lines=//+No+system+is+safe.;#include+<AI.h>;while(alive)+{+code();+}+🔥;" />
+
+
+### 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://dev.to/h4ck3r"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+  <a href="https://instagram.com/h4ck3r0_official"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://h4ck3r.me"><img src="https://img.shields.io/badge/Website-12100E?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/h4ck3r0"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-### Frontend  
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-</div>
+---
 
-</td><td valign="top" width="33%">
+## 💻 Tech Stack
+
+#### 🧑‍🎨 Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+</p>
+
+#### 🧠 Tools & Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
 
 
-
-</td><td valign="top" width="33%">
-
-
-
-### Other  
-<div align="center">  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-</div>
+---
  
-##  ➵ [Youtube](https://youtube.com/c/h4ck3r0) Free Tutorials
-##  ➵ [Support](https://support.h4ck3r.me) Feel Free To Ask Doubts On My Website
-##  ➵ [Donation](https://h4ck3r.me/donation/) We Can’t Help Everyone But Everyone Can Help Someone
-##  ➵ [Instagram](https://www.instagram.com/h4ck3r0_official?igsh=NzN1NTNucWhjOXJp) Follow Me
+<!-- 🌐 My Links -->
+<h2 align="center">🌐 My Links</h2>
+
+<p align="center">
+  <a href="https://youtube.com/c/h4ck3r0" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  
+  <a href="https://h4ck3r.me" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Website-000000?style=for-the-badge&logo=wordpress&logoColor=white" />
+  </a>
+
+  <a href="https://support.h4ck3r.me" target="_blank">
+    <img src="https://img.shields.io/badge/Support%20Me-007FFF?style=for-the-badge&logo=helpdesk&logoColor=white" />
+  </a>
+
+  <a href="https://h4ck3r.me/donation/" target="_blank">
+    <img src="https://img.shields.io/badge/Donate-F8B400?style=for-the-badge&logo=ko-fi&logoColor=black" />
+  </a>
+
+  <a href="https://www.instagram.com/h4ck3r0_official" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
 
   
 <p align="center"><a href="https://github.com/h4ck3r0"><img title="H4Ck3R" src="https://github-readme-stats-q2ta.vercel.app/api?username=h4ck3r0&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
-<p align="center">
-<a href="https://github.com/h4ck3ro"><img title="YouTube" src="https://img.shields.io/badge/Github-H4Ck3R-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://youtube.com/c/h4ck3r0"><img title="YouTube" src="https://img.shields.io/badge/YouTube-H4Ck3R-red?style=for-the-badge&logo=Youtube"></a>
-</p>
+
 <p align="center">
 <a href="https://github.com/h4ck3r0/Apktool-termux"><img title="Apktool-termux" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=h4ck3r0&repo=Apktool-termux&theme=radical"></a>
  <a href="https://github.com/h4ck3r0/Termux-os"><img title="termux-os" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=h4ck3r0&repo=Termux-os&theme=radical"></a>
