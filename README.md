@@ -149,6 +149,4 @@ Machine Learning Engineer and Security Researcher passionate about AI, Computer 
   </a>
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h4ck3r0&theme=chartreuse-dark&cache_seconds=3200" alt="h4ck3r0" />
-</p>
+
