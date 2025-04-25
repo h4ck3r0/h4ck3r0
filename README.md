@@ -118,28 +118,28 @@ Machine Learning Engineer and Security Researcher passionate about AI, Computer 
 
 <p align="center">
   <a href="https://github.com/h4ck3r0/Apktool-termux">
-    <img title="Apktool-termux" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=h4ck3r0&repo=Apktool-termux&theme=radical">
+    <img title="Apktool-termux" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=h4ck3r0&repo=Apktool-termux&theme=radical&hide_border=true">
   </a>
   <a href="https://github.com/h4ck3r0/Termux-os">
-    <img title="Termux-os" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=h4ck3r0&repo=Termux-os&theme=radical">
+    <img title="Termux-os" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=h4ck3r0&repo=Termux-os&theme=radical&hide_border=true">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/h4ck3r0/Metasploit-termux">
-    <img title="Metasploit-termux" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=h4ck3r0&repo=Metasploit-termux&theme=tokyonight">
+    <img title="Metasploit-termux" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=h4ck3r0&repo=Metasploit-termux&theme=tokyonight&hide_border=true">
   </a>
   <a href="https://github.com/h4ck3r0/Lemon-termux">
-    <img title="Lemon-termux" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=h4ck3r0&repo=Lemon-termux&theme=tokyonight">
+    <img title="Lemon-termux" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=h4ck3r0&repo=Lemon-termux&theme=tokyonight&hide_border=true">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/h4ck3r0/kali-theme">
-    <img title="Kali-theme" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=h4ck3r0&repo=kali-theme&theme=dracula">
+    <img title="Kali-theme" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=h4ck3r0&repo=kali-theme&theme=dracula&hide_border=true">
   </a>
   <a href="https://github.com/h4ck3r0/Termux-banner">
-    <img title="Termux-Banner" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=h4ck3r0&repo=Termux-banner&theme=dracula">
+    <img title="Termux-Banner" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=h4ck3r0&repo=Termux-banner&theme=dracula&hide_border=true">
   </a>
 </p>
 
