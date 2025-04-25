@@ -150,5 +150,5 @@ Machine Learning Engineer and Security Researcher passionate about AI, Computer 
 </p>
 
 <p align="center">
-   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-tau-blush.vercel.app?user=h4ck3r0&theme=buefy-dark&hide_border=true" alt="GitHub Streak" /></a>
+   <a><img src="https://github-readme-streak-stats-tau-blush.vercel.app?user=h4ck3r0&theme=buefy-dark&hide_border=true" alt="GitHub Streak" /></a>
 </p>
