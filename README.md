@@ -145,8 +145,10 @@ Machine Learning Engineer and Security Researcher passionate about AI, Computer 
 
 <p align="center">
   <a href="https://github.com/h4ck3r0">
-    <img title="h4ck3r" src="https://github-readme-stats-q2ta.vercel.app/api/top-langs/?username=h4ck3r0&layout=compact&theme=tokyonight&cache_seconds=3200">
+    <img title="h4ck3r" src="https://github-readme-stats-q2ta.vercel.app/api/top-langs/?username=h4ck3r0&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3200">
   </a>
 </p>
 
-
+<p align="center">
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-tau-blush.vercel.app?user=h4ck3r0&theme=buefy-dark&hide_border=true" alt="GitHub Streak" /></a>
+</p>
