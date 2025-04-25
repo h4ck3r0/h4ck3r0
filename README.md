@@ -9,9 +9,16 @@
 
 
 
-### About Me
- 
-Machine Learning Engineer and Security Researcher passionate about AI, Computer Vision and Cybersecurity. Currently working on deep learning applications for image classification and security tools.
+🚀 A Machine Learning Engineer & Cybersecurity Enthusiast blending intelligence and defense.  
+💻 I build deep learning models that **see**, and security tools that **protect**.
+
+---
+
+#### 🧠 What I Do
+- 🤖 AI + ML for real-world problems  
+- 📸 Deep Learning in Image Classification  
+- 🛡️ Security Automation & Research  
+- 🌐 Open Source & Community Projects
 <p></p>
 
 <hr style="border: none; border-top: 1px dashed #0ff; margin: 20px 0;" />
