@@ -112,7 +112,7 @@ Machine Learning Engineer and Security Researcher passionate about AI, Computer 
 
   <p align="center">
   <a href="https://github.com/h4ck3r0">
-    <img title="H4Ck3R" src="https://github-readme-stats-q2ta.vercel.app/api?username=h4ck3r0&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200">
+    <img title="H4Ck3R" src="https://github-readme-stats-q2ta.vercel.app/api?username=h4ck3r0&show_icons=true&include_all_commits=true&theme=buefy-dark&hide_border=true&cache_seconds=3200">
   </a>
 </p>
 
