@@ -14,7 +14,7 @@
 
 ---
 
-#### 🧠 What I Do
+## 🧠 What I Do
 - 🤖 AI + ML for real-world problems  
 - 📸 Deep Learning in Image Classification  
 - 🛡️ Security Automation & Research  
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Open%20Source%20Contributor-Hacktoberfest%20-pink?style=for-the-badge" />
 </p>
 
-### 🧰 Toolbox
+## 🧰 Toolbox
 ```
 💻 IDE: VS Code
 📦 Package: pip, npm
@@ -47,7 +47,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF00F0&center=true&vCenter=true&width=600&lines=//+No+system+is+safe.;#include+<AI.h>;while(alive)+{+code();+}+🔥;" />
 
 
-### 🔗 Connect With Me
+## 🔗 Connect With Me
 
 <p align="center">
   <a href="https://dev.to/h4ck3r" style="text-decoration: none;">
@@ -70,7 +70,7 @@
 
 <h2 align="center">Tech Stack</h2>
 
-### 🧑‍🎨 Frontend
+## 🧑‍🎨 Frontend
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -79,7 +79,7 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
-### 🧠 Tools & Frameworks
+## 🧠 Tools & Frameworks
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
