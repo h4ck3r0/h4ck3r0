@@ -21,9 +21,6 @@
 
 
 
-<p align="center"><img src="https://user-images.githubusercontent.com/46929618/150071352-0321e505-255d-4034-b884-fb166cc7e488.gif" alt="Bt">
-
-
 
 ---
 <p align="center">
