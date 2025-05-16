@@ -4,6 +4,13 @@
 </a>
 
 
+---
+
+## 👨‍💻 About Me
+I’m Raj Aryan — a Machine Learning Engineer passionate about defending the digital world while solving real-world problems through AI. I love combining the power of Deep Learning with practical security automation, and I believe open-source is the future.
+
+---
+
 
 🚀 A Machine Learning Engineer & Cybersecurity Enthusiast blending intelligence and defense.  
 💻 I build deep learning models that **see**, and security tools that **protect**.
@@ -20,9 +27,6 @@
 <hr style="border: none; border-top: 1px dashed #0ff; margin: 20px 0;" />
 
 
-
-
----
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=h4ck3r0&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="h4ck3r0" /> 
   <img src="https://img.shields.io/badge/Open%20Source%20Contributor-Hacktoberfest%20-pink?style=for-the-badge" />
@@ -109,8 +113,9 @@
 
 ---
 
+## 📌 Featured Projects
 
-  <p align="center">
+<p align="center">
   <a href="https://github.com/h4ck3r0">
     <img title="H4Ck3R" src="https://github-readme-stats-q2ta.vercel.app/api?username=h4ck3r0&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=3200">
   </a>
@@ -145,10 +150,12 @@
 
 <p align="center">
   <a href="https://github.com/h4ck3r0">
-    <img title="h4ck3r" src="https://github-readme-stats-q2ta.vercel.app/api/top-langs/?username=h4ck3r0&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3200">
+    <img title="h4ck3r0" src="https://github-readme-stats-q2ta.vercel.app/api/top-langs/?username=h4ck3r0&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3200">
   </a>
 </p>
 
 <p align="center">
-   <a><img src="https://github-readme-streak-stats-tau-blush.vercel.app?user=h4ck3r0&theme=buefy-dark&hide_border=true" alt="GitHub Streak" /></a>
+   <a>
+     <img src="https://github-readme-streak-stats-tau-blush.vercel.app?user=h4ck3r0&theme=buefy-dark&hide_border=true" alt="GitHub Streak" />
+   </a>
 </p>
