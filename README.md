@@ -9,11 +9,6 @@
 ## 👨‍💻 About Me
 I’m Raj Aryan — a Machine Learning Engineer passionate about defending the digital world while solving real-world problems through AI. I love combining the power of Deep Learning with practical security automation, and I believe open-source is the future.
 
----
-
-
-🚀 A Machine Learning Engineer & Cybersecurity Enthusiast blending intelligence and defense.  
-💻 I build deep learning models that **see**, and security tools that **protect**.
 
 ---
 
