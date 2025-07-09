@@ -27,14 +27,6 @@ I’m Raj Aryan — a Machine Learning Engineer passionate about defending the d
   <img src="https://img.shields.io/badge/Open%20Source%20Contributor-Hacktoberfest%20-pink?style=for-the-badge" />
 </p>
 
-## 🧰 Toolbox
-```
-💻 IDE: VS Code
-📦 Package: pip, npm
-🎨 Design: Figma
-🧠 Frameworks: PyTorch, Scikit-learn
-```
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF00F0&center=true&vCenter=true&width=600&lines=//+No+system+is+safe.;#include+<AI.h>;while(alive)+{+code();+}+🔥;" />
 
