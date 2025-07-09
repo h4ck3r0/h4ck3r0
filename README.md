@@ -54,24 +54,18 @@ I’m Raj Aryan — a Machine Learning Engineer passionate about defending the d
 
 <h2 align="center">Tech Stack</h2>
 
-## 🧑‍🎨 Frontend
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-</p>
-
-## 🧠 Tools & Frameworks
-<p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
-
----
  
 <!-- 🌐 My Links -->
 <h2 align="center">🌐 My Links</h2>
@@ -99,41 +93,6 @@ I’m Raj Aryan — a Machine Learning Engineer passionate about defending the d
 </p>
 
 ---
-
-## 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/h4ck3r0">
-    <img title="H4Ck3R" src="https://github-readme-stats-q2ta.vercel.app/api?username=h4ck3r0&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=3200">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/h4ck3r0/Apktool-termux">
-    <img title="Apktool-termux" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=h4ck3r0&repo=Apktool-termux&theme=radical&hide_border=true">
-  </a>
-  <a href="https://github.com/h4ck3r0/Termux-os">
-    <img title="Termux-os" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=h4ck3r0&repo=Termux-os&theme=radical&hide_border=true">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/h4ck3r0/Metasploit-termux">
-    <img title="Metasploit-termux" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=h4ck3r0&repo=Metasploit-termux&theme=tokyonight&hide_border=true">
-  </a>
-  <a href="https://github.com/h4ck3r0/Lemon-termux">
-    <img title="Lemon-termux" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=h4ck3r0&repo=Lemon-termux&theme=tokyonight&hide_border=true">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/h4ck3r0/kali-theme">
-    <img title="Kali-theme" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=h4ck3r0&repo=kali-theme&theme=dracula&hide_border=true">
-  </a>
-  <a href="https://github.com/h4ck3r0/Termux-banner">
-    <img title="Termux-Banner" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=h4ck3r0&repo=Termux-banner&theme=dracula&hide_border=true">
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/h4ck3r0">
