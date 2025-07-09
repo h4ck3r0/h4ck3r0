@@ -93,7 +93,9 @@ I’m Raj Aryan — a Machine Learning Engineer passionate about defending the d
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://github-readme-stats-q2ta.vercel.app/api?username=h4ck3r0&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 <p align="center">
   <a href="https://github.com/h4ck3r0">
     <img title="h4ck3r0" src="https://github-readme-stats-q2ta.vercel.app/api/top-langs/?username=h4ck3r0&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3200">
