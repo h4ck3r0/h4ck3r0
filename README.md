@@ -70,18 +70,12 @@ I’m Raj Aryan — a Machine Learning Engineer passionate about defending the d
 <!-- 🌐 My Links -->
 <h2 align="center">🌐 My Links</h2>
 
-<p align="center">
-  <a href="https://youtube.com/c/h4ck3r0" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+
   
   <a href="https://h4ck3r.me" target="_blank">
     <img src="https://img.shields.io/badge/My%20Website-000000?style=for-the-badge&logo=wordpress&logoColor=white" />
   </a>
 
-  <a href="https://support.h4ck3r.me" target="_blank">
-    <img src="https://img.shields.io/badge/Support%20Me-007FFF?style=for-the-badge&logo=helpdesk&logoColor=white" />
-  </a>
 
   <a href="https://h4ck3r.me/donation/" target="_blank">
     <img src="https://img.shields.io/badge/Donate-F8B400?style=for-the-badge&logo=ko-fi&logoColor=black" />
