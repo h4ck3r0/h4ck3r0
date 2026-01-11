@@ -1,106 +1,66 @@
-<!-- 🔥 Typing Header -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&width=435&lines=Hey+Geeks+%F0%9F%91%8B;I+am+Raj+Aryan;AI+%2B+Cybersecurity+%3D+%E2%9A%A1%EF%B8%8F;Hack+the+Limits" alt="Typing SVG" />
-</a>
-
+# Raj Aryan
+**Machine Learning Research | Software Engineering Fundamentals | C & Python**
 
 ---
 
-## 👨‍💻 About Me
-I’m Raj Aryan — a Machine Learning Engineer passionate about defending the digital world while solving real-world problems through AI. I love combining the power of Deep Learning with practical security automation, and I believe open-source is the future.
+## About Me
 
-
----
-
-## 🧠 What I Do
-- 🤖 AI + ML for real-world problems  
-- 📸 Deep Learning in Image Classification  
-- 🛡️ Security Automation & Research  
-- 🌐 Open Source & Community Projects
-<p></p>
-
-<hr style="border: none; border-top: 1px dashed #0ff; margin: 20px 0;" />
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=h4ck3r0&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="h4ck3r0" /> 
-  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-Hacktoberfest%20-pink?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF00F0&center=true&vCenter=true&width=600&lines=//+No+system+is+safe.;#include+<AI.h>;while(alive)+{+code();+}+🔥;" />
-
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://dev.to/h4ck3r" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/h4ck3r0_official" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://h4ck3r.me" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Website-12100E?style=for-the-badge&logo=wordpress&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/h4ck3r0" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-
+- B.Tech student actively doing research-oriented work in Machine Learning.
+- Focused on understanding models, data, and algorithms through implementation and experimentation.
+- Experience building ML projects end to end, including data preparation, model training, and evaluation.
+- Strong interest in writing correct, reproducible, and well-documented code.
+- Comfortable working in Linux environments and using Git for research and development workflows.
 
 ---
 
-<h2 align="center">Tech Stack</h2>
+## Research Interests
 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
-
- 
-<!-- 🌐 My Links -->
-<h2 align="center">🌐 My Links</h2>
-
-
-  
-  <a href="https://h4ck3r.me" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Website-000000?style=for-the-badge&logo=wordpress&logoColor=white" />
-  </a>
-
-
-  <a href="https://h4ck3r.me/donation/" target="_blank">
-    <img src="https://img.shields.io/badge/Donate-F8B400?style=for-the-badge&logo=ko-fi&logoColor=black" />
-  </a>
-
-  <a href="https://www.instagram.com/h4ck3r0_official" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+- Machine Learning fundamentals and model behavior
+- Deep Learning for image-based and structured data
+- Experimental evaluation of models and architectures
+- Translating research ideas into working code prototypes
 
 ---
 
-<p align="center">
-  <a href="https://github.com/h4ck3r0">
-    <img title="H4Ck3R" src="https://github-readme-stats-q2ta.vercel.app/api?username=h4ck3r0&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=3200">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/h4ck3r0">
-    <img title="h4ck3r0" src="https://github-readme-stats-q2ta.vercel.app/api/top-langs/?username=h4ck3r0&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3200">
-  </a>
-</p>
+## Tech Stack
 
-<p align="center">
-   <a>
-     <img src="https://github-readme-streak-stats-tau-blush.vercel.app?user=h4ck3r0&theme=buefy-dark&hide_border=true" alt="GitHub Streak" />
-   </a>
-</p>
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### Frameworks & Libraries
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+### Tools & Platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## Research & Engineering Approach
+
+- Using implementation as a way to understand theory.
+- Running controlled experiments and comparing model behavior.
+- Emphasis on clarity, reproducibility, and incremental improvement.
+- Maintaining readable code and structured project layouts.
+
+---
+
+## Current Focus
+
+- Deepening understanding of machine learning and deep learning models.
+- Exploring research papers through practical implementation.
+- Improving experimental rigor and evaluation techniques.
+
+---
+
+## Contact & Links
+
+- GitHub: https://github.com/h4ck3r0  
+- LinkedIn: https://www.linkedin.com/in/h4ck3r0  
+- Email: rajaryan2315@gmail.com  
+- Location: Bengaluru, India
+
+---
