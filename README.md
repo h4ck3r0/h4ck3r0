@@ -1,66 +1,52 @@
 # Raj Aryan
-**Machine Learning Research | Software Engineering Fundamentals | C & Python**
+
+**Machine Learning Research · Software Engineering · C & Python**
+
+[![GitHub](https://img.shields.io/badge/GitHub-h4ck3r0-181717?style=flat&logo=github&logoColor=white)](https://github.com/h4ck3r0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-h4ck3r0-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h4ck3r0)
+[![Email](https://img.shields.io/badge/Email-rajaryan2315%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rajaryan2315@gmail.com)
 
 ---
 
-## About Me
+## About
 
-- B.Tech student actively doing research-oriented work in Machine Learning.
-- Focused on understanding models, data, and algorithms through implementation and experimentation.
-- Experience building ML projects end to end, including data preparation, model training, and evaluation.
-- Strong interest in writing correct, reproducible, and well-documented code.
-- Comfortable working in Linux environments and using Git for research and development workflows.
+B.Tech student with a focus on research-oriented machine learning. My work spans model implementation, experimental evaluation, and end-to-end project development — from data preparation through training and analysis. I prioritise reproducibility, clarity, and rigorous documentation across all projects.
 
 ---
 
-## Research Interests
+## Technical Stack
 
-- Machine Learning fundamentals and model behavior
-- Deep Learning for image-based and structured data
-- Experimental evaluation of models and architectures
-- Translating research ideas into working code prototypes
-
----
-
-## Tech Stack
-
-### Languages
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 
-### Frameworks & Libraries
+**Frameworks & Libraries**
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-### Tools & Platforms
+**Tools & Platforms**
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## Research & Engineering Approach
 
-- Using implementation as a way to understand theory.
-- Running controlled experiments and comparing model behavior.
-- Emphasis on clarity, reproducibility, and incremental improvement.
-- Maintaining readable code and structured project layouts.
 
----
+## Contact
 
-## Current Focus
+| | |
+|---|---|
+| **Location** | Bengaluru, India |
+| **Email** | rajaryan2315@gmail.com |
+| **GitHub** | [github.com/h4ck3r0](https://github.com/h4ck3r0) |
+| **LinkedIn** | [linkedin.com/in/h4ck3r0](https://www.linkedin.com/in/h4ck3r0) |
 
-- Deepening understanding of machine learning and deep learning models.
-- Exploring research papers through practical implementation.
-- Improving experimental rigor and evaluation techniques.
+## GitHub Stats
 
----
-
-## Contact & Links
-
-- GitHub: https://github.com/h4ck3r0  
-- LinkedIn: https://www.linkedin.com/in/h4ck3r0  
-- Email: rajaryan2315@gmail.com  
-- Location: Bengaluru, India
-
----
+![Raj's GitHub Stats](https://YOUR-STATS-DEPLOYMENT.vercel.app/api?username=h4ck3r0&show_icons=true&hide_border=true)
+![Top Languages](https://YOUR-STATS-DEPLOYMENT.vercel.app/api/top-langs/?username=h4ck3r0&layout=compact&hide_border=true)
