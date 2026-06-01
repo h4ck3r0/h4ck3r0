@@ -47,5 +47,10 @@ B.Tech student with a focus on research-oriented machine learning. My work spans
 | **LinkedIn** | [linkedin.com/in/h4ck3r0](https://www.linkedin.com/in/h4ck3r0) |
 
 ## GitHub Stats
-![Raj's GitHub Stats](https://stats.h4ck3r.me/api?username=h4ck3r0&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://stats.h4ck3r.me/api/top-langs/?username=h4ck3r0&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+
+  <img src="https://github-readme-stats-h8a1.vercel.app/api?username=h4ck3r0&show_icons=true&theme=tokyonight&include_all_commits=true&border_color=2aa8ff" alt="Raj's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats-h8a1.vercel.app/api/top-langs/?username=h4ck3r0&layout=compact&theme=tokyonight&v=1&border_color=2aa8ff" alt="Top Languages" />
+
+</div>
